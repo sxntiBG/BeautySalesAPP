@@ -1,0 +1,27 @@
+name: beauty_sales
+description: CRUD en base al proyecto de Beauty Sales creado por Santiago Zapata Ospina.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/BeautySales.png
+
+flutter_icons:
+  android: "launcher_icon"
+  image_path: "assets/icon/icon.png"
