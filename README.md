@@ -1,6 +1,8 @@
 # BeautySalesAPP
 
-APP desarrollada en Flutter sobre el proyecto 'Beauty Sales' desarrollado por Santiago Zapata Ospina
+APP desarrollada en Flutter sobre el proyecto 'Beauty Sales' desarrollado por Santiago Zapata Ospina.
+
+Si desea solo instalar la APK puedes descargarlo en este enlace: https://github.com/sxntiBG/BeautySalesAPK.git
 
 ¡importante!
 
